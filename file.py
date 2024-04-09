@@ -1,1 +1,1 @@
-print("Imo braun mial razje, jbc zydow")
+print("ladnjufoqlaicd")
