@@ -1,0 +1,1 @@
+print("Imo braun mial razje, jbc zydow")
