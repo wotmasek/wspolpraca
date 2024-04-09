@@ -1,4 +1,6 @@
 print("ladnjufoqlaicd")
 
 
-print("ZUpAAAAAAA OBIADDDDDDDD")S
+print("ZUpAAAAAAA OBIADDDDDDDD")
+
+print("Nie, bo soczek z zydka")
